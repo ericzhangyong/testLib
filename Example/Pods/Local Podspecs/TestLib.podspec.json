@@ -1,22 +1,24 @@
 {
   "name": "TestLib",
-  "version": "0.1.0",
-  "summary": "A short description of TestLib.",
+  "version": "0.1.1",
+  "summary": "TestLib车控",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/e3vpq9/TestLib",
+  "homepage": "https://github.com/ericzhangyong/TestLib",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "e3vpq9": "zhangyong@immotors.com"
+    "ericzhangyong": "584283830@qq.com"
   },
   "source": {
-    "git": "https://github.com/e3vpq9/TestLib.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/ericzhangyong/testLib.git",
+    "tag": "0.1.1"
   },
+  "swift_versions": "4.0",
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "TestLib/Classes/**/*"
+  "source_files": "TestLib/Classes/**/*",
+  "swift_version": "4.0"
 }
